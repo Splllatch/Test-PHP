@@ -1,0 +1,33 @@
+.test
+{
+    height: 250px;
+    border : solid green;
+    width: 100%;
+    color : blue;
+}
+
+.PHP
+{
+    font-weight: bold;
+    color : red;
+}
+
+.Ville{
+    color : orange;
+}
+
+
+.testTableauCSS 
+{
+    border : solid grey;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    color: blue;
+}
+
+.abc 
+{
+    border : solid yellow;
+    margin-right: 20px;
+}
